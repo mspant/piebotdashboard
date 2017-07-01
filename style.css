@@ -15,5 +15,6 @@ font-size: 15px;
 }
 
 h1, h2, p {
-  color: White;
+  color: #ffffff;
+  background-color: #1a1a1a;
 }
