@@ -16,5 +16,9 @@ font-size: 15px;
 
 h1, h2, p {
   color: #ffffff;
-  background-color: #1a1a1a;
+}
+
+
+.background {
+    background-color: #1a1a1a;
 }
